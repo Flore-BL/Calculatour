@@ -1,15 +1,15 @@
 TODO :
- 1 - objet touches - fini par Flore-BL
+ 1 - objet touches - fini par Flore-BL 06/04/2023
 2 - objet munitions
- 3 - objet balle - fini par luc-delepine
-4 - objet tour
+ 3 - objet balle - fini par luc-delepine 09/04/2023
+ 4 - objet tour - fini par luc-delepine 10/04/2023
 5 - objet ennemis
-6 - interactions entre les balles et les tours (tour qui peut tirer), nécessite 3 et 4
+ 6 - interactions entre les balles et les tours (tour qui peut tirer), nécessite 3 et 4 - fini par luc-delepine 10/04/2023
 7 - interactions entre les balles et les ennemis (dégats et mort), nécessite 3 et 5
 8 - interactions entre les munitions et les tours, nécessite 2 et 4
 9 - Calculatrice, nécessite 1 et 2
 10 - interface joueur pour utiliser calculatrice, nécessite 9
-11 - interface joueur pour rediriger les tours, nécessite 4
+ 11 - interface joueur pour rediriger les tours, nécessite 4 - fini par luc-delepine 10/04/2023
 12 - interfaces joueurs pour l'utilisation des munitions
 13 - vagues d'ennemis, nécessite 5
 14 - disparition des ennemis une fois arrivé à caculatrice, nécessite 5 et 9
